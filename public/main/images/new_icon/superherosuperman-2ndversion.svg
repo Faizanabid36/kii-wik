@@ -1,0 +1,73 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!--Generator: Xara Designer (www.xara.com), SVG filter version: 6.2.0.0-->
+<svg stroke-width="0.501" stroke-linejoin="bevel" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" overflow="visible" width="186.458pt" height="186.458pt" viewBox="0 0 186.458 186.458">
+ <defs>
+  <image id="Bitmap" preserveAspectRatio="none" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAwCAYAAAAYX/pXAAAACXBIWXMAAA7DAAAOwwHHb6hkAAABuklEQVRIidWWv07CUBTGb0uxLX/iRFKMiwskbCSO+hokhsmJRzBGRWAwMXFi4wlIIBD+LD6Az+DEqAYjVIRWCxbq14UYEyN8TH5JuWnJ9+s5N+eeHkmQKhQKcjqdPpJZAMwHWO5Zv+h2uzf+SkewWCxGNKBWq21JkmTSgNlspnme90IDdF0PY3mmAXh7BHswpgHIP7oRQFGUbUAsGgDzrmVZNg3AHsRQSA4NQASRer0+pwGIYOljS9nbCIAUNgNALg0ol8sqimhIAwzDCMuy/EgDAoFAFMuABvhl7LruGw1ADWwjCh6A/OOTycSiAagBo9frvQtWnU4n//2e7sr/FIDvoYJNHNGAVCoVxjl4oAGQ30yfaEAwGIzhqzSkASjh+HQ6HdAAnIMEohjTAOQfy2QycwrQbDYTOMa3P5+vDEAfOK5Wq3eCUbvd3m+1WoeUGdOIDsDVb///mYKqqhemaZYEI7z5FNcOZUbjOIE5ubbRn0BhPkPue4xZgbnYaDTiq3qWs7I/+0El27avs9ns66oAxf+pVCohTdPyjuMUYf4Qa0jCqBJCkzjv9/uXuVzuU6wpGeYkaxZCiC/hObRwMBrJkAAAAABJRU5ErkJggg==">
+   <title>1</title>
+  </image>
+ </defs>
+ <g id="Document" fill="none" stroke="black" font-family="Times New Roman" font-size="16" transform="scale(1 -1)">
+  <g id="Spread" transform="translate(0 -186.458)">
+   <g id="Layer 1">
+    <g id="ClipView">
+     <path d="M 22.405,150.755 C 54.159,189.849 111.66,195.807 150.755,164.053 C 189.849,132.299 195.807,74.798 164.053,35.703 C 132.299,-3.391 74.798,-9.349 35.703,22.405 C -3.391,54.159 -9.349,111.66 22.405,150.755 Z" stroke="#0288d1" fill="#ffffff" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+     <clipPath id="ClipPath">
+      <path d="M 22.405,150.755 C 54.159,189.849 111.66,195.807 150.755,164.053 C 189.849,132.299 195.807,74.798 164.053,35.703 C 132.299,-3.391 74.798,-9.349 35.703,22.405 C -3.391,54.159 -9.349,111.66 22.405,150.755 Z"/>
+     </clipPath>
+     <g clip-path="url(#ClipPath)">
+      <path d="M 58.43,49.495 C 58.361,58.973 62.661,64.484 74.643,63.014 C 102.047,71.772 136.557,58.484 132.736,59.267 C 149.487,47.376 149.944,25.616 150.431,3.873 L 97.139,4.146 L 76.959,4.46 L 58.43,49.495 Z" stroke="none" fill="#005b8c" stroke-width="0" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+      <path d="M 78.536,65.086 L 77.492,37.753 L 93.469,16.992 L 110.841,38.804 L 110.015,65.086 L 78.536,65.086 Z" stroke="#012e42" fill="#ffffff" stroke-width="1.547" stroke-linejoin="miter" stroke-linecap="round" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+      <g id="ClipView_1" stroke="none">
+       <path d="M 78.536,65.086 L 77.492,37.753 L 93.469,16.992 L 110.841,38.804 L 110.015,65.086 L 78.536,65.086 Z" marker-start="none" marker-end="none"/>
+       <clipPath id="ClipPath_1">
+        <path d="M 78.536,65.086 L 77.492,37.753 L 93.469,16.992 L 110.841,38.804 L 110.015,65.086 L 78.536,65.086 Z"/>
+       </clipPath>
+       <g clip-path="url(#ClipPath_1)">
+        <path d="M 90.807,67.958 L 107.221,33.587 L 127.638,47.785 L 133.506,56.878 L 116.919,68.845 L 90.807,67.958 Z" stroke-opacity="0.145098" fill="#7f7f7f" stroke-width="2.228" stroke-linejoin="miter" stroke-linecap="round" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775" fill-opacity="0.145098"/>
+       </g>
+      </g>
+      <path d="M 89.643,155.823 C 72.909,145.814 58.264,132.023 56.179,112.922 C 51.589,145.801 72.205,155.253 89.643,155.823 Z" stroke="#28b6f6" fill="#ffffff" stroke-width="0.509" stroke-linejoin="round" stroke-linecap="round" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+      <path d="M 110.753,97.397 C 112.615,97.397 114.125,98.907 114.125,100.769 C 114.125,102.632 112.615,104.141 110.753,104.141 C 108.89,104.141 107.383,102.632 107.383,100.769 C 107.383,98.907 108.89,97.397 110.753,97.397 Z" stroke="#28b6f6" fill="#012e42" stroke-width="0.198" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+      <path d="M 77.029,97.397 C 78.887,97.397 80.399,98.907 80.399,100.769 C 80.399,102.632 78.887,104.141 77.029,104.141 C 75.162,104.141 73.655,102.632 73.655,100.769 C 73.655,98.907 75.162,97.397 77.029,97.397 Z" stroke="#28b6f6" fill="#012e42" stroke-width="0.198" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+      <path d="M 84.874,74.215 C 87.703,72.881 90.737,72.202 93.891,72.202 C 96.973,72.202 99.947,72.855 102.733,74.133 C 104.424,74.91 105.166,76.915 104.385,78.608 C 103.607,80.299 101.608,81.039 99.914,80.263 C 98.017,79.393 95.991,78.95 93.891,78.95 C 91.739,78.95 89.675,79.409 87.75,80.313 C 86.063,81.109 84.056,80.386 83.264,78.703 C 82.469,77.018 83.187,75.009 84.874,74.215 Z" stroke="#28b6f6" fill="#012e42" stroke-width="0.198" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+      <path d="M 52.887,119.935 L 52.887,99.696 C 52.887,77.938 70.542,60.282 92.299,60.282 L 95.783,60.282 C 117.54,60.282 135.196,77.938 135.196,99.696 L 135.196,119.935 C 135.196,141.689 117.54,159.345 95.783,159.345 L 92.299,159.345 C 70.542,159.345 52.887,141.689 52.887,119.935 Z" stroke="#012e42" fill="#ffffff" stroke-width="1.833" stroke-linejoin="miter" stroke-linecap="round" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+      <g id="ClipView_2">
+       <path d="M 111.229,57.276 C 146.3,59.607 159.558,39.548 156.355,4.107 C 117.664,0.082 81.04,-9.893 29.64,4.192 C 32.399,40.85 50.358,58.854 77.872,56.705 C 77.221,42.659 87.052,41.294 94.62,41.378 C 102.281,41.465 110.841,47.785 111.229,57.276 Z" stroke="#012e42" fill="#28b6f6" stroke-width="0.912" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+       <clipPath id="ClipPath_2">
+        <path d="M 111.229,57.276 C 146.3,59.607 159.558,39.548 156.355,4.107 C 117.664,0.082 81.04,-9.893 29.64,4.192 C 32.399,40.85 50.358,58.854 77.872,56.705 C 77.221,42.659 87.052,41.294 94.62,41.378 C 102.281,41.465 110.841,47.785 111.229,57.276 Z"/>
+       </clipPath>
+       <g clip-path="url(#ClipPath_2)">
+        <path d="M 73.252,55.1 C 73.64,34.117 111.724,30.421 116.035,55.422" fill="none" stroke="#000000" stroke-width="0.382" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="79.8403193612775"/>
+        <g id="Group" stroke-miterlimit="79.8403193612775">
+         <g id="Group_1">
+          <g id="Group_2">
+           <g id="Group_3">
+            <path d="M 94.386,-6.824 L 125.419,24.138 L 115.277,33.036 L 73.592,33.086 L 63.426,24.213 L 94.386,-6.824 Z" fill="none" stroke="#ffffff" stroke-width="1.718" fill-rule="nonzero" stroke-linejoin="round" stroke-linecap="round" marker-start="none" marker-end="none" stroke-miterlimit="212.754491017964"/>
+            <path d="M 84.497,7.364 L 84.497,28.26 L 90.117,28.26 L 90.117,20.885 L 92.733,20.885 L 98.487,28.26 L 106.764,28.024 L 96.875,18.131 L 106.764,7.931 L 98.487,7.691 L 92.733,15.067 L 90.117,15.067 L 90.117,7.364 L 84.497,7.364 Z" stroke="none" fill="#ffffff" stroke-width="0.016" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="212.754491017964"/>
+           </g>
+          </g>
+         </g>
+        </g>
+       </g>
+      </g>
+      <path d="M 123.189,57.58 C 122.997,57.509 122.828,57.446 122.69,57.388 C 119.982,56.261 114.566,44.668 116.936,41.694 C 118.115,40.215 121.377,40.448 123.667,40.584 C 125.121,40.667 126.447,40.812 127.985,41.794 C 131.891,44.292 134.127,52.093 133.247,57.57 C 133.238,57.621 132.728,59.216 132.736,59.267 C 131.616,61.803 125.638,58.478 123.189,57.58 Z" stroke="none" fill="#005b8c" stroke-width="0" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+      <path d="M 120.71,47.535 C 122.047,48.181 123.996,48.043 125.055,47.225 C 126.114,46.406 125.887,45.214 124.55,44.567 C 123.213,43.921 121.264,44.059 120.205,44.877 C 119.146,45.696 119.373,46.888 120.71,47.535 Z" stroke="none" fill="#ffffff" stroke-width="0" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+      <path d="M 71.382,57.578 C 71.574,57.507 71.743,57.444 71.881,57.386 C 74.589,56.259 80.005,44.666 77.636,41.692 C 76.456,40.215 73.194,40.446 70.904,40.582 C 69.452,40.664 68.124,40.809 66.586,41.794 C 62.68,44.29 60.446,52.091 61.326,57.568 C 61.333,57.619 61.845,59.214 61.836,59.265 C 62.955,61.802 68.933,58.476 71.382,57.578 Z" stroke="none" fill="#005b8c" stroke-width="0" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+      <path d="M 73.856,47.533 C 72.519,48.179 70.57,48.041 69.511,47.223 C 68.452,46.404 68.679,45.212 70.016,44.565 C 71.353,43.919 73.302,44.057 74.361,44.875 C 75.42,45.694 75.193,46.886 73.856,47.533 Z" stroke="none" fill="#ffffff" stroke-width="0" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+      <path d="M 92.765,135.904 L 80.37,137.236 C 81.662,134.747 82.68,132.267 81.599,129.86 C 78.628,127.643 75.657,126.203 72.789,126.275 C 74.346,121.899 81.244,119.102 85.594,120.742 C 90.825,122.716 95.468,128.385 92.765,135.904 Z" stroke-linejoin="miter" stroke="none" fill="#000000" marker-start="none" marker-end="none"/>
+      <g id="ClipView_3" stroke-linejoin="miter" stroke="none">
+       <path d="M 57.402,101.302 C 59.989,116.003 53.288,126.155 70.126,131.095 C 71.876,131.608 76.245,133.242 78.01,132.918 C 78.247,132.965 78.487,133.009 78.73,133.05 C 93.093,136.011 107.093,136.688 119.818,129.335 L 122.649,117.874 C 122.708,117.721 130.948,112.721 132.093,111.783 C 131.714,108.092 134.641,109.339 135.353,107.072 C 135.566,107.721 136.312,108.292 136.355,109.372 C 136.574,110.983 136.786,112.689 136.992,114.494 C 137.812,134.044 135.17,148.165 124.455,149.631 C 108.263,161.089 91.922,170.121 74.374,159.405 C 65.451,154.587 57.587,148.687 52.548,139.902 C 48.217,127.984 48.593,112.285 51.665,100.425 C 53.366,100.328 55.903,100.529 57.402,101.302 Z" fill="#000000" marker-start="none" marker-end="none"/>
+       <clipPath id="ClipPath_3">
+        <path d="M 57.402,101.302 C 59.989,116.003 53.288,126.155 70.126,131.095 C 71.876,131.608 76.245,133.242 78.01,132.918 C 78.247,132.965 78.487,133.009 78.73,133.05 C 93.093,136.011 107.093,136.688 119.818,129.335 L 122.649,117.874 C 122.708,117.721 130.948,112.721 132.093,111.783 C 131.714,108.092 134.641,109.339 135.353,107.072 C 135.566,107.721 136.312,108.292 136.355,109.372 C 136.574,110.983 136.786,112.689 136.992,114.494 C 137.812,134.044 135.17,148.165 124.455,149.631 C 108.263,161.089 91.922,170.121 74.374,159.405 C 65.451,154.587 57.587,148.687 52.548,139.902 C 48.217,127.984 48.593,112.285 51.665,100.425 C 53.366,100.328 55.903,100.529 57.402,101.302 Z"/>
+       </clipPath>
+       <g clip-path="url(#ClipPath_3)">
+        <use transform="translate(115.5 161.25) scale(12 -36)" xlink:href="#Bitmap" stroke-width="0" fill="none" stroke-miterlimit="79.8403193612775"/>
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

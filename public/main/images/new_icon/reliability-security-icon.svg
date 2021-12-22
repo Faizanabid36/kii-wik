@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!--Generator: Xara Designer (www.xara.com), SVG filter version: 6.2.0.0-->
+<svg stroke-width="0.501" stroke-linejoin="bevel" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" overflow="visible" width="151.498pt" height="149.873pt" viewBox="0 0 151.498 149.873">
+ <defs>
+	</defs>
+ <g id="Document" fill="none" stroke="black" font-family="Times New Roman" font-size="16" transform="scale(1 -1)">
+  <g id="Spread" transform="translate(0 -149.873)">
+   <g id="Layer 1">
+    <g id="Group" stroke-linecap="round" stroke-width="4" stroke-miterlimit="79.8403193612775">
+     <path d="M 2,114.58 C 22.618,113.184 43.948,117.956 59.341,128.78 C 67.281,134.367 72.745,140.935 75.748,147.873 C 78.753,140.935 84.216,134.367 92.16,128.78 C 107.549,117.956 128.882,113.184 149.498,114.58 C 139.507,60.826 113.285,9.948 75.748,2 C 38.213,9.948 11.994,60.826 2,114.58 Z" stroke="#000000" fill="#0288d1" stroke-linejoin="round" marker-start="none" marker-end="none"/>
+     <g id="Group_1">
+      <g id="ClipView">
+       <path d="M 11.809,109.306 C 29.685,108.096 48.176,112.232 61.523,121.619 C 68.409,126.462 73.144,132.158 75.748,138.172 C 78.352,132.158 83.089,126.462 89.974,121.619 C 103.321,112.232 121.813,108.096 139.688,109.306 C 131.026,62.704 108.292,18.594 75.748,11.702 C 43.206,18.594 20.472,62.704 11.809,109.306 Z" stroke="#000000" fill="#81d2ff" stroke-linejoin="round" marker-start="none" marker-end="none"/>
+       <clipPath id="ClipPath">
+        <path d="M 11.809,109.306 C 29.685,108.096 48.176,112.232 61.523,121.619 C 68.409,126.462 73.144,132.158 75.748,138.172 C 78.352,132.158 83.089,126.462 89.974,121.619 C 103.321,112.232 121.813,108.096 139.688,109.306 C 131.026,62.704 108.292,18.594 75.748,11.702 C 43.206,18.594 20.472,62.704 11.809,109.306 Z"/>
+       </clipPath>
+       <g clip-path="url(#ClipPath)">
+        <path d="M 75.748,11.702 C 100.029,41.758 116.846,74.152 123.733,109.644 L 139.688,109.306 C 142.97,60.891 65.182,-23.884 75.748,11.702 Z" stroke="none" stroke-opacity="0.800000" fill="#ffffff" stroke-linejoin="miter" marker-start="none" marker-end="none" fill-opacity="0.800000"/>
+       </g>
+      </g>
+      <path d="M 107.246,91.809 C 107.981,91.078 108.347,90.189 108.347,89.144 C 108.347,88.094 107.981,87.206 107.246,86.474 L 78.839,58.064 L 73.501,52.727 C 72.769,51.996 71.877,51.628 70.835,51.628 C 69.787,51.628 68.897,51.996 68.162,52.727 L 62.826,58.064 L 48.623,72.268 C 47.891,73.001 47.524,73.892 47.524,74.937 C 47.524,75.982 47.891,76.874 48.623,77.607 L 53.959,82.943 C 54.691,83.675 55.579,84.04 56.627,84.04 C 57.674,84.04 58.563,83.675 59.294,82.943 L 70.835,71.365 L 96.574,97.146 C 97.307,97.879 98.194,98.245 99.24,98.245 C 100.288,98.245 101.179,97.879 101.913,97.146 L 107.246,91.809 Z" stroke="#000000" fill="#ffffff" fill-rule="nonzero" stroke-linejoin="round" marker-start="none" marker-end="none"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
